@@ -30,5 +30,5 @@ This helped increase data diversity and improve generalization.
 - Experimenting with **hyperparameter tuning** and **data augmentation** improvements.  
 - Due to **hardware limitations**, larger experiments are currently postponed. 😅  
 
-##Dataset
+## Dataset
 - Link:https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
